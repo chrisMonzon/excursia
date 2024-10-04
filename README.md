@@ -1,7 +1,6 @@
-<<<<<<< HEAD
 # group-project-readme
 
-# Airline Ticket Prices Webscraper
+# Excursia: Airline Ticket Prices Webscraper
 
 Our project, Excursia, provides users with intuitive accessibility to airline ticket prices from different airlines by scraping data from their web pages. Compared to competitors such as Expedia and Kayak, Excursia has a more intuitive interface and provides more focus on ticket prices specifically. 
 
